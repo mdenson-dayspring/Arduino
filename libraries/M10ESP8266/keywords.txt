@@ -1,0 +1,48 @@
+#######################################
+# Syntax Coloring Map For M10ESP8266
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESP8266_STRUCT	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+configureTCPServer	KEYWORD2
+clearBuffer	KEYWORD2
+bufferStrMatch	KEYWORD2
+readForResponse	KEYWORD2
+sendCommand	KEYWORD2
+commandResponse	KEYWORD2
+setMux	KEYWORD2
+resetESP8266	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD3)
+#######################################
+
+ESP8266	KEYWORD3
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ESP8266_TEST	LITERAL1
+RESPONSE_OK	LITERAL1
+ESP8266_VERSION	LITERAL1
+ESP8266_UART_CUR	LITERAL1
+ESP8266_UART_DEF	LITERAL1
+ESP8266_DISCONNECT_AP	LITERAL1
+ESP8266_RESET	LITERAL1
+ESP8266_WIFI_MODE	LITERAL1
+ESP8266_TCP_MULTIPLE	LITERAL1
+ESP8266_SERVER_CONFIG	LITERAL1
+ESP8266_GET_LOCAL_IP	LITERAL1
+ESP8266_DHCP	LITERAL1
+ESP8266_TCP_STATUS	LITERAL1
+ESP8266_AP_CONFIG	LITERAL1
+ESP8266_TCP_SERVER_TIMEOUT	LITERAL1
